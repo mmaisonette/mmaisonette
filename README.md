@@ -18,12 +18,14 @@ I’m **Marcio Maisonette**, a Platform Engineer passionate about cloud-native t
 
 - Explore software development in Python and Go, with additional experience in JavaScript.
 
-- Use AI tools to enhance my daily work and productivity.
+- Use AI tools to support development, automation, and problem-solving in my daily work.
 
 ### 💡 Philosophy
-For me, **Platform Engineering and Software Development go hand in hand**: one creates the foundation, the other brings ideas to life. I believe in turning complex problems into elegant solutions that make technology more accessible and teams more productive.
+For me, **Platform Engineering and Software Development go hand in hand**: one creates the foundation, the other brings ideas to life. I strive to turn complex problems into elegant solutions that make technology more accessible and teams more productive.
 
-I love learning and I believe in the power of continuous learning — both for personal growth and for society. I’m always seeking new challenges and opportunities to shape my skills and mindset, within technology and beyond it.
+I believe in the power of continuous learning — for both personal growth and the progress of society. I’m always seeking new challenges and opportunities to expand my skills and mindset, within technology and beyond it.
+
+I see AI as a valuable ally in this journey, enhancing creativity, accelerating problem-solving, and enabling me to focus on building better platforms.
 
 ### 🌐 Side Projects
 - [thecodingmind.dev](https://thecodingmind.dev) → A blog where I share articles on software engineering, DevOps practices, and personal insights from my journey.
