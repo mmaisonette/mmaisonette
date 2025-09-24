@@ -22,12 +22,6 @@ I believe in the power of continuous learning — for both personal growth and t
 
 I see AI as a valuable ally in this journey, enhancing creativity, accelerating problem-solving, and enabling me to focus on building better platforms.
 
-### 🌟 Featured Projects
-- **[Ephemeral QA Environments](#)** → Automated ephemeral deployments using Docker Swarm & Azure DevOps pipelines.
-- **[GitHub ARC & Karpenter Setup](#)** → Scalable GitHub Actions runners on EKS with Karpenter autoscaling.
-- **[Contact List CLI](#)** → Python-based contact manager with validation and CRUD operations.
-- You can see across the repositories different projects and resources that I worked or that I'm working on.
-
 ### 🌐 My Online Presence
 - [thecodingmind.dev](https://thecodingmind.dev) → A blog where I share articles on software engineering, DevOps practices, and personal insights from my journey.
 - [secondlevel.me](https://secondlevel.me) → A hub linking to other things I explore beyond technology, keeping a personal touch.
