@@ -12,6 +12,7 @@ I’m **Marcio Maisonette**, a Platform Engineer passionate about cloud-native t
 - Implement monitoring and observability to ensure reliability and performance.
 - Automate infrastructure with IaC, cloud-native principles, and container orchestration.
 - Explore software development in Python and Go, with additional experience in JavaScript and databases.
+- Use AI tools to support development, automation, and problem-solving in my daily work.
 
 ### 💡 Philosophy
 I believe in making technology more accessible, reliable, and impactful. For me, 
@@ -19,7 +20,7 @@ Platform Engineering and Software Development go hand in hand: one builds the fo
 
 I believe in the power of continuous learning — for both personal growth and the progress of society and business. I’m always seeking new challenges and opportunities to expand my skills and mindset, within technology and beyond it.
 
-I see **AI as a valuable ally** in this journey, enhancing creativity, accelerating problem-solving, and enabling me to focus on building better platforms.
+I see AI as a valuable ally in this journey, enhancing creativity, accelerating problem-solving, and enabling me to focus on building better platforms.
 
 ### 🌟 Featured Projects
 - **[Ephemeral QA Environments](#)** → Automated ephemeral deployments using Docker Swarm & Azure DevOps pipelines.
