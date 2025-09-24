@@ -1,6 +1,6 @@
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Database](https://img.shields.io/badge/Database-4479A1?logo=databricks&logoColor=white&style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Database](https://img.shields.io/badge/Database-4479A1?logo=databricks&logoColor=white&style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
-## Hi there 👋
+## Hey! 👋
 I’m **Marcio Maisonette**, a Platform Engineer passionate about cloud-native technologies, automation, and software development. My focus is on designing and building scalable platforms that empower teams to deliver software faster, more reliably, and with confidence.
 
 ### 🚀 What I Do
@@ -8,13 +8,13 @@ I’m **Marcio Maisonette**, a Platform Engineer passionate about cloud-native t
 
 - Design CI/CD pipelines that accelerate delivery without compromising quality.
 
-- Automate infrastructure with Infrastructure-as-Code (IaC), cloud-native principles, and container orchestration.
+- Collaborate with teams to streamline workflows and reduce friction in delivery pipelines.
 
-- Apply knowledge in cloud computing, networking, storage systems, and databases to design reliable and secure environments.
+- Automate infrastructure with Infrastructure-as-Code (IaC), cloud-native principles, and container orchestration.
 
 - Leverage and develop tooling and automation to improve developer experience and system efficiency.
 
-- Collaborate with teams to streamline workflows and reduce friction in delivery pipelines.
+- Implement monitoring and observability practices to ensure reliable, secure, and high-performing systems.  
 
 - Explore software development in Python and Go, with additional experience in JavaScript.
 
@@ -23,7 +23,7 @@ I’m **Marcio Maisonette**, a Platform Engineer passionate about cloud-native t
 ### 💡 Philosophy
 For me, **Platform Engineering and Software Development go hand in hand**: one creates the foundation, the other brings ideas to life. I strive to turn complex problems into elegant solutions that make technology more accessible and teams more productive.
 
-I believe in the power of continuous learning — for both personal growth and the progress of society. I’m always seeking new challenges and opportunities to expand my skills and mindset, within technology and beyond it.
+I believe in the power of continuous learning — for both personal growth, progress of society, and business. I’m always seeking new challenges and opportunities to expand my skills and mindset, within technology and beyond it.
 
 I see AI as a valuable ally in this journey, enhancing creativity, accelerating problem-solving, and enabling me to focus on building better platforms.
 
