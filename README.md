@@ -4,7 +4,7 @@
 
 
 ## Hey! 👋
-I’m **Marcio Maisonette**, a Platform Engineer passionate about cloud-native technologies, automation, and software development.
+I’m **Marcio Maisonette**, a Senior Platform Engineer passionate about cloud-native technologies, automation, and software development.
 
 ### 🚀 What I Do
 - Build scalable developer platforms that simplify workflows and reduce complexity.
